@@ -1,0 +1,5 @@
+.hero {
+  background: url(../img/hero.jpg);
+  background-size: cover;
+  background-position: center center;
+}
